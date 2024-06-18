@@ -7,7 +7,7 @@ was a fundamental step in learning how to use HTML and Bootstrap formatting tool
 *Intro
 *Installation
 
-## **Installation*
+## **Installation**
 There is no installation required as it is a html file which would take you to a webpage.
 
 ## **Usage**
