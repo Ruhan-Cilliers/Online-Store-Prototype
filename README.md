@@ -1,4 +1,4 @@
-# **Compulsary_Task**
+# **Creating a Online Store**
 Completing Level 3 Task 6 in the HyperionDev software engineering bootcamp. This task was 
 creating a fake store where a buy button would appear when you hovered over an item. This
 was a fundamental step in learning how to use HTML and Bootstrap formatting tools.
